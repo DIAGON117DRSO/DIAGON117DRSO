@@ -4,17 +4,17 @@ on making my own movie server and app
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-Facebook
-seriesplay117
-
-Youtube
-diover SR
-
-twitch
-diagon117
-
-tiktok
-diagon 117
+- Facebook
+- seriesplay117
+-
+- Youtube
+- diover SR
+-
+- twitch
+- diagon117
+-
+- tiktok
+- diagon 117
 
 <!---
 DIAGON117DRSO/SERIESPLAY117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
