@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 on making my own movie server and app
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Hacer un servido de streaming de peliculas
 - 📫 How to reach me
 - Facebook
 - seriesplay117
